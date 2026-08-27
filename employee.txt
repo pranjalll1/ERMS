@@ -1,6 +1,6 @@
-Employee id :
-Employee name :
-Department :
-Designation :
-Salary:
+Employee id : 34
+Employee name :karan
+Department :cse
+Designation :lucknow
+Salary:1lakh
 
